@@ -2,6 +2,18 @@ audio {
    display:none;
 }
 
-body {
-	background: #e6eaf2;
+h1 {
+	text-align: center;
+}
+
+button {
+	text-align: center;
+}
+
+.callout {
+	text-align: center;
+}
+
+.row {
+	text-align: center;
 }
